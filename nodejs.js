@@ -1,4 +1,4 @@
-/// Import the built-in 'http' module
+// Import the built-in 'http' module
 const http = require('http');
 
 // onfigure the HTTP server to respond with "Hello, World!" to all requests
