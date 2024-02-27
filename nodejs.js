@@ -7,7 +7,7 @@ const server = http.createServer((req, res) => {
   res.end('Hello, World!\n');
 });
 
-// Listen on port 3000 and IP address 127.0.0.1
+/// Listen on port 3000 and IP address 127.0.0.1
 const PORT = 3000;
 const IP = '127.0.0.1';
 
